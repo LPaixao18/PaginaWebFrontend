@@ -3,7 +3,7 @@
 
 Menu objetivo no canto superior direito , página de fácil navegação e botão de saiba mais sobre as linguagens abordadas em cada card.
 
-![](readme1.png)
+![](README1.png)
 ![](README2.png)
 
 ## Meta
